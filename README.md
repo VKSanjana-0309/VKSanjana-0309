@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Developer/Engineer/Student] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm VK Sanjana</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 💬 Ask me about **AI, Python, Frontend, or Productivity Hacks**
 
-📫 How to reach me: **[your.email@example.com]**
+📫 How to reach me: **sanjanavk0903@gmail.com**
 
 
 
@@ -34,15 +34,6 @@
 </p>
 
 ---
-
-⭐️ From [Your GitHub Username](https://github.com/yourusername)
-- 👋 Hi, I’m @VKSanjana-0309
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 VKSanjana-0309/VKSanjana-0309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
